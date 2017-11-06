@@ -1,0 +1,2 @@
+# Die
+Represents a die.
